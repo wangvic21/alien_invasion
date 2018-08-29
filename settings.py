@@ -13,7 +13,7 @@ class Settings():
 		self.ship_limit = 2
 
 		# 子弹设置
-		self.bullet_width = 300
+		self.bullet_width = 3
 		self.bullet_height = 15
 		self.bullet_color = 250, 60, 60
 
