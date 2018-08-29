@@ -32,7 +32,7 @@ class Settings():
 		"""初始化随游戏进度而变化的设置"""
 		self.ship_speed_factor = 5
 		self.bullet_speed_factor = 2
-		self.alien_speed_factor = 20
+		self.alien_speed_factor = 2
 		# fleet_direction为1表示向右移，为-1表示向左移
 		self.fleet_direction = 1
 		self.bullet_allowed = 6
