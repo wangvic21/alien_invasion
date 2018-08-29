@@ -1,7 +1,9 @@
 # Alien_Invasion
 ---
+
 ##简介
 这是一个利用Python3编写的飞船设计外星人的游戏。主要利用的是Python的Pygame模块。
+
 ##文件目录
 ```
 .
