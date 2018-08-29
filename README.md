@@ -1,10 +1,10 @@
 # Alien_Invasion
 ---
 
-##简介
+## 简介
 这是一个利用Python3编写的飞船设计外星人的游戏。主要利用的是Python的Pygame模块。
 
-##文件目录
+## 文件目录
 ```
 .
 ├── README.md
@@ -28,16 +28,16 @@
 * settings存储了游戏的相关设置，包括界面大小，飞船、子弹、外星人的速度等参数。
 * high_score.json存储了游戏的最高分，在不存在的情况下可以自动生成。
 
-##运行环境
+## 运行环境
 * Python3
 * Pygame模块
 
-###运行说明
+### 运行说明
 * P或者点击Play开始游戏
 * Q或者点击窗口“X”关闭游戏
 
-###Pygame安装说明
-####安装pip
+### Pygame安装说明
+#### 安装pip
 1. Linux & OS X
 	* 检测pip是否安装
 
@@ -70,7 +70,7 @@
 	 python get-pip.py
 	 ```
 
-####安装pygame
+#### 安装pygame
 1. OS X & Linux
 
 		```
