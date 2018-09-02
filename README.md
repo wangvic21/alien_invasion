@@ -72,10 +72,10 @@
 
 #### 安装pygame
 1. OS X & Linux
-
-		```
-		pip3 install pygame
-		```
+	
+	```
+	pip3 install pygame
+	```
 2. Windows
 
 	访问[Python Extension Packages for Windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame.)下载pygame，注意版本。
