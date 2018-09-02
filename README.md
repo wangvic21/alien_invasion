@@ -1,5 +1,12 @@
 # Alien_Invasion
 ---
+# Table of Contents
+* [简介](#简介)
+* [文件目录](#文件目录)
+* [运行环境](#运行环境)
+	* [运行说明](#运行说明)
+	* [Pygame安装说明](#Pygame安装说明)
+
 
 ## 简介
 这是一个利用Python3编写的飞船设计外星人的游戏。主要利用的是Python的Pygame模块。
